@@ -1,29 +1,41 @@
 ---
-title: Welcome to Libris
+title: Welcome to Akoka Inc.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Welcome to Libris
   description: This is the documentation page
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Welcome to Libris
-      keyName: property
-    - name: 'og:description'
-      value: This is the documentation page
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Welcome to Libris
-    - name: 'twitter:description'
-      value: This is the documentation page
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Welcome to Libris
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the documentation page
+    keyName: property
+    relativeUrl: false
+  - name: twitter:card
+    value: summary
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Welcome to Libris
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the documentation page
+    keyName: ''
+    relativeUrl: false
+  robots: []
 layout: docs
----
+weight: 
+excerpt: ''
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
 
 ***
