@@ -6,8 +6,7 @@ sections:
   title: Akoka Inc.
   section_id: hero
   image: images/5.jpg
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Akoka for Equity
   actions:
   - type: action
     template: action
