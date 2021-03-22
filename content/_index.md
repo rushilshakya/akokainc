@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: Hero Section
+  title: Akoka Inc.
   section_id: hero
   image: images/5.jpg
   content: This section can contain a subtitle or tagline. The recommended length
