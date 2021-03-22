@@ -1,6 +1,7 @@
 root_docs_path: /docs
 sections:
   - about
+  - hugo
   - getting-started
   - ui-components
   - manage-content
