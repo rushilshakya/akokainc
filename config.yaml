@@ -8,7 +8,7 @@ params:
     template: header
     title: Akoka Inc.
     logo_img: images/logo.svg
-    logo_img_alt: Libris logo
+    logo_img_alt: Akoka Inc. logo
     has_nav: true
     nav_links:
     - type: action_menu
